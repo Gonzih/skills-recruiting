@@ -1,0 +1,21 @@
+{
+  "name": "@gonzih/skills-recruiting",
+  "version": "1.0.0",
+  "description": "Recruiting skills for Claude Code",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "recruiting",
+    "hiring",
+    "hr"
+  ],
+  "homepage": "https://github.com/gonzih/skills-recruiting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-recruiting.git"
+  },
+  "license": "MIT",
+  "files": [
+    "skills/"
+  ]
+}
