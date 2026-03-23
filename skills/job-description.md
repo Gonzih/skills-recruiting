@@ -33,3 +33,9 @@ Write the job description following these principles:
 6. **Equal Opportunity Statement**
 
 Keep the tone conversational but professional. Aim for 400–600 words. Flag any jargon or buzzwords to the user and suggest plain-language alternatives.
+
+## Live Data Sources
+
+- **O*NET API** (`api.onetonline.org`) — pull occupational skills, tasks, and knowledge requirements by SOC code to ground the "What We're Looking For" section in standardized role definitions
+- **BLS Occupational Outlook Handbook** (`bls.gov/ooh`) — fetch salary ranges and employment outlook for the target occupation to inform compensation ranges
+- **LinkedIn public job listings** — reference patterns from active postings for the same role to align language, requirements, and benefits framing with current market expectations
