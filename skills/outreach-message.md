@@ -35,3 +35,9 @@ After writing the message, offer:
 - A shorter variant (under 100 words)
 - A subject line if sending via email
 - Tips on follow-up timing (typically 5–7 days)
+
+## Live Data Sources
+
+- **GitHub Jobs API patterns** — identify candidates' public open-source contributions and activity to craft specific, genuine personal openers
+- **Indeed / LinkedIn job board webhooks** — monitor active job-seeking signals (recently posted resumes, "Open to Work" status) to time outreach for maximum response rates
+- **ATS integration patterns** (Greenhouse, Lever public APIs) — sync candidate pipeline state to avoid duplicate outreach and track response history across the recruiting workflow

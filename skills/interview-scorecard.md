@@ -58,3 +58,9 @@ Tailor to the role, but common areas include:
 - Base ratings only on observed evidence, not "gut feel"
 - Flag any comfort/culture-fit reasoning — distinguish it from job-relevant criteria
 - Avoid anchoring on resume prestige or prior company names
+
+## Live Data Sources
+
+- **Glassdoor interview question patterns** (public) — surface commonly reported interview questions for the target role and company to inform suggested questions per competency
+- **LeetCode problem tags by company** (public) — identify frequently asked problem categories for technical screen stages at specific companies
+- **STAR method frameworks from HR research APIs** — pull structured behavioral question banks and response evaluation rubrics aligned to the competencies being assessed

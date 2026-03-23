@@ -63,3 +63,9 @@ Draft a polished, professional counteroffer email that: expresses genuine enthus
 - Negotiating via phone without time to think — ask for offers in writing
 - Focusing only on base when equity may be the bigger opportunity
 - Accepting on the spot under pressure — it's always okay to ask for 24–48 hours
+
+## Live Data Sources
+
+- **BLS Occupational Employment and Wage Statistics** (`bls.gov/oes`) — fetch median and percentile wage data by occupation and geographic area to anchor salary benchmarks
+- **Levels.fyi compensation patterns** (public) — pull total compensation breakdowns (base, bonus, equity) by company, level, and location for tech roles
+- **BLS CPI API** (`api.bls.gov/publicAPI`) — retrieve cost-of-living index data by metro area to adjust and compare offer values across geographies
